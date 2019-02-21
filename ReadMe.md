@@ -16,7 +16,7 @@ The workflow has two modes which can be used:
 ![mutetime](mutetime_1.jpg)
 ___
 
-### Potential uses:
+### Potential use cases:
 
 - Muting commercials that play during sports broadcasts. Works great for football, basketball, and baseball streams.
 - Mute streaming music or radio when a coworker asks you a question or approaches to talk for a moment.
