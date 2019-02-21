@@ -5,7 +5,7 @@ The Temporary Mute workflow allows a user to mute the volume of their computer f
 The workflow has two modes which can be used:
 
 **"Mute for":** Using the "mute for" keyword phrase allows the computer to be muted for the exact number of seconds specified. Simply include a number after "mute for" and the volume will remain muted for that number of seconds. [Example: "mute for 90"]
-!(mutefor_1.jpg)
+![mutefor](mutefor_1.jpg)
  
 
 
