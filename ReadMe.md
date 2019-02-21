@@ -1,6 +1,3 @@
-# ReadMe
-
-
 # Temporary Mute for Alfred
 
 The Temporary Mute workflow allows a user to mute the volume of their computer for a specified duration of time. Once the duration of time has elapsed, the computer's volume is automatically unmuted. The user can also manually unmute the volume at any time before the defined duration is over.
